@@ -2,7 +2,7 @@
 <x-layout>
 
 
-<a href="/" class="inline-block text-black ml-4 mt-4 pt-5"
+<a href="/" class="inline-block text-black ml-4 mt-4 pt-4"
                 ><i class="fa-solid fa-arrow-left"></i> Back
             </a>
             <div class="mx-4">
